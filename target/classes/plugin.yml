@@ -1,0 +1,4 @@
+name: Zhuden
+main: com.kodingkingdom.zhuden.ZhudenPlugin
+version: 0.0.1
+commands:
